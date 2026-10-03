@@ -1,0 +1,11 @@
+Tic-tac-toe Game (Version: 0.4.25022967)
+------------------------------------------------
+[INFO] - [2026-04-01 00:29:08] GameLogger initialized!
+[INFO] - [2026-04-01 00:29:08] GameInteraction initialized!
+[INFO] - [2026-04-01 00:29:26] GameEngine initialized!
+[DEBUG] - [2026-04-01 00:29:54] execution time of [botMove()] = 1.88e-05s
+[DEBUG] - [2026-04-01 00:30:26] execution time of [botMove()] = 8.7e-06s
+[INFO] - [2026-04-01 00:30:32] GameEngine playing done!
+[INFO] - [2026-04-01 00:30:32] GameEngine show endgame done!
+[INFO] - [2026-04-01 00:30:32] GameInteraction closed!
+[INFO] - [2026-04-01 00:30:32] GameLogger closing . . .
